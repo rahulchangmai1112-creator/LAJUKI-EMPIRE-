@@ -1,4 +1,4 @@
-https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F5FF&center=true&vCenter=true&width=750&lines=⚡+Hi+|+everyone+|+My+Name;🚀+LAJUKI+FROM+%26+INDIA+ASSAM;💻+Welcome+to+My-'+Digital+Universe
+https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F5FF&center=true&vCenter=true&width=750&lines=⚡+Hi+|+everyone+|+My+Name;🚀+Lajuki+FROM+%26+INDIA+ASSAM;💻+Welcome+to+My-'+Digital+Universe
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lajuki__empire__) 
